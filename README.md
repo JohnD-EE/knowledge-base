@@ -12,11 +12,11 @@ Building a personal collection of associative notes for learning, memorisation, 
 ### Folder structure:
 | Folder | Notes |
 |---|---|
-| assets: | Images and other assets |  
-| books:  | Book summaries with page references with launch pad links to knowledge | 
-| dailyNotes:  | Daily log | 
-| freeFlow:  | For whatever I want  |
-| knowledge: | The main area for accumulating atomic notes around topics organised into files |
+| assets | Images and other assets |  
+| books  | Book summaries with page references with launch pad links to knowledge | 
+| dailyNotes  | Daily log | 
+| freeFlow  | For whatever I want  |
+| knowledge | The main area for accumulating atomic notes around topics organised into files |
 | meta | Thinking about my strategies and approaches to this project |
 | people | Note per person with @ prefix |
 | practices | Disciplined rituals and habits - my methodologies |
