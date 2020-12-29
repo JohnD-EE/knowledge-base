@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "57e44f67cb9ca10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8ed7f711890bcf",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60e24724fcc27f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0256d9c3ff653763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aefa1eacad1a93f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c317b9a9c30a1d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4aadcd5e89235e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2609cb01bedc536",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d145b18d984fa10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "249d784ae9f6c27c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb73705529939888",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "3597ce043abc854d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "templates/Daily Notes.md",
+    "2020-12-29.md",
+    "Untitled.md"
+  ]
+}
