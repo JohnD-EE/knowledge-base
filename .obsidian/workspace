@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "projects/Projects.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "projects/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "projects/Projects.md"
               }
             }
           }
@@ -114,9 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "templates/Daily Notes.md",
-    "2020-12-29.md",
-    "Untitled.md"
+    "projects/Untitled.md",
+    "practices/Untitled.md",
+    "people/Untitled.md",
+    "meta/Untitled.md",
+    "knowledge/Untitled.md",
+    "freeFlow/Untitled.md",
+    "dailyNotes2021/Untitled.md",
+    "books/Untitled.md",
+    "Untitled.md",
+    "templates/Daily Notes.md"
   ]
 }
