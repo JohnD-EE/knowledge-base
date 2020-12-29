@@ -1,0 +1,3 @@
+- Electromagnetism is the reason light exists
+- The force which is responsible for ALL of chemistry
+- Force that binds electrons to atomic nuclei to make atoms - build matter

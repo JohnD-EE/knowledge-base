@@ -30,6 +30,8 @@ For the purposes of backup and version control, this collection of notes will be
 ### Tagging
 Tags referencing the topic must be placed under the main header.  In addition to subject tagging for easy filtering, the following tags are reserved for specific purposes which may be placed anywhere in the note:
 
+Task must be snake case
+
 | Tag | Purpose |
 |---|---|
 | `#partial` | Partially completed work to come back to soonish | 
@@ -45,13 +47,13 @@ Tags referencing the topic must be placed under the main header.  In addition to
 | `#rewrite` | The note is worth re-writing in the future |
 | `#placeholder` | The note is a placeholder or wireframe for future write-up |
 | `#brainstorm` | Brain dump of whatever comes up |
-| `altViewpoint` | Exploring all possibilities, even crazy possibilities |
+| `alt-viewpoint` | Exploring all possibilities, even crazy possibilities |
 | `#quote` | An quote or a saying (with attributions where possible) |
-| `#projectProjectName`  | Something to include in a specific project or article idea |
-| `#businessIdea` | Capturing the commercial angle on something |
+| `#project-project-name`  | Something to include in a specific project or article idea |
+| `#business-idea` | Capturing the commercial angle on something |
 | `#futureYYYY` | Some future projection |
 | `#pastYYYY` | An historical event |
-| `#placePLACENAME` | A geographical location |
+| `#place-placename` | A geographical location |
 
 
 ### Referencing

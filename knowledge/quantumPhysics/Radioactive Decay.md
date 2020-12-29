@@ -1,0 +1,2 @@
+Radioactive Decay is the changing of one type of subatomic particle into another.
+- e.g., a [[Neutrino]] that strays close to a neutron can turn the neutron into a proton while the neutrino becomes an electron.
