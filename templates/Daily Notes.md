@@ -1,5 +1,5 @@
 # Template for daily notes (Heading Should be Date)
-#template #dailyNotes
+#template #daily-notes
 
 #### Must do:
 - [ ] These things must be done today
@@ -20,7 +20,7 @@
 #### Personal musings & ideas:
 - Tagged free flow thoughts for emergent insights
 
-
+#### If today was Groundhog day, how could I have lived differently?
 
 #### Dumping scratch area
 

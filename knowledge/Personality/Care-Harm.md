@@ -1,0 +1,11 @@
+# Care-Harm moral foundation
+- High in political liberals
+- Related to our long evolution as mammals with attachment systems
+- Evolved due to need to nurture children
+- Sensitive to the suffering of others
+- Despising cruelty
+- Empathy, feeling and disliking the pain of others
+- Concern for animal rights, genocide, poverty
+- Global concern, beyond boundaries
+- In political conservative, this foundation manifests as concern for the in-group, especially for those who have made sacrifices for the group (e.g. wounded soldiers)
+- Underlies the virtues of kindness, gentleness, and nurturance.

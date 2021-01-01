@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "freeFlow/Unit of Production.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "freeFlow/Unit of Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "freeFlow/Unit of Production.md"
               }
             }
           }
@@ -114,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "freeFlow/Unit of Production.md",
+    "freeFlow/Free Flow.md",
     "README.md",
-    "knowledge/quantumPhysics/Standard Model.md",
-    "knowledge/quantumPhysics/Antimatter.md",
-    "knowledge/Knowledge.md",
-    "projects/Projects.md",
-    "books/Books.md",
-    "projects/Untitled.md",
-    "practices/Untitled.md",
+    "freeFlow/Untitled.md",
+    "templates/Daily Notes.md",
+    "Care-Harm.md",
+    "knowledge/Personality/Moral Tastebuds.md",
+    "knowledge/Quantum Physics/Bottom Quark.md",
     "people/Untitled.md",
-    "meta/Untitled.md"
+    "knowledge/Personality/Untitled.md"
   ]
 }

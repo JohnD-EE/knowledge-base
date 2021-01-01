@@ -28,32 +28,32 @@ Building a personal collection of associative notes for learning, memorisation, 
 For the purposes of backup and version control, this collection of notes will be hosted on my Github account, therefore anything of a particularly personal nature will not be included, or encrypted.
 
 ### Tagging
-Tags referencing the topic must be placed under the main header.  In addition to subject tagging for easy filtering, the following tags are reserved for specific purposes which may be placed anywhere in the note:
+Tags referencing the topic must be placed under the main header.  In addition to subject tagging for easy filtering, the following tags are **reserved** for specific purposes which may be placed anywhere in the note:
 
 Task must be snake case
 
 | Tag | Purpose |
 |---|---|
-| `#partial` | Partially completed work to come back to soonish | 
-| `#task` | A self assigned task |
-| `#p1 #p2 #p3`| Task Priorities - P1 Interrupt other things now; P2 Next week or so; P3 backlog |
-| `#unsure` | Clarification needed | 
-| `#incubating` | An idea seedling that needs musing on |
-| `#question` | Asking good open ended questions to help understanding or start a deep conversation - what if? |
-| `#lateral`  | Crazy idea which may lead nowhere, but interesting or thought provoking | 
-| `#memorise`  | Something to memorise with spaced repetition |
-| `#tweetable` | An succinct insight written in a tweetable format |
-| `#work` | Something which might be apt for the workplace |
-| `#rewrite` | The note is worth re-writing in the future |
-| `#placeholder` | The note is a placeholder or wireframe for future write-up |
-| `#brainstorm` | Brain dump of whatever comes up |
-| `alt-viewpoint` | Exploring all possibilities, even crazy possibilities |
-| `#quote` | An quote or a saying (with attributions where possible) |
-| `#project-project-name`  | Something to include in a specific project or article idea |
-| `#business-idea` | Capturing the commercial angle on something |
-| `#futureYYYY` | Some future projection |
-| `#pastYYYY` | An historical event |
-| `#place-placename` | A geographical location |
+| #partial | Partially completed work to come back to soonish | 
+| #task | A self assigned task |
+| #p1 #p2 #p3| Task Priorities - P1 Interrupt other things now; P2 Next week or so; P3 backlog |
+| #unsure | Clarification needed | 
+| #incubating | An idea seedling that needs musing on |
+| #question | Asking good open ended questions to help understanding or start a deep conversation - what if? |
+| #thought  | Crazy idea which may lead nowhere, but interesting or thought provoking | 
+| #memorise  | Something to memorise with spaced repetition |
+| #tweetable | An succinct insight written in a tweetable format |
+| #work | Something which might be apt for the workplace |
+| #rewrite | The note is worth re-writing in the future |
+| #placeholder | The note is a placeholder or wireframe for future write-up |
+| #brainstorm | Brain dump of whatever comes up |
+| #alt-viewpoint | Exploring all possibilities, even crazy possibilities |
+| #quote | An quote or a saying (with attributions where possible) |
+| #project-project-name  | Something to include in a specific project or article idea |
+| #business-idea | Capturing the commercial angle on something |
+| #futureYYYY | Some future projection |
+| #pastYYYY | An historical event |
+| #place-placename | A geographical location |
 
 
 ### Referencing
