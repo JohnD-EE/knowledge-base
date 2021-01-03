@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/Optimisation of my mental health.md",
+            "file": "dailyNotes2021/2021-01-03.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Optimisation of my mental health.md",
+                "file": "dailyNotes2021/2021-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Optimisation of my mental health.md"
+                "file": "dailyNotes2021/2021-01-03.md"
               }
             }
           }
@@ -114,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "projects/Optimisation of my mental health.md",
-    "dailyNotes2021/2021-01-01.md",
-    "people/@Epictetus.md",
-    "knowledge/Stoicism/Don't stick to a decision if it is not a sound decision.md",
-    "people/Untitled.md",
-    "README.md",
-    "knowledge/Stoicism/Untitled.md",
-    "2021-01-01.md",
+    "dailyNotes2021/2021-01-03.md",
     "templates/Daily Notes.md",
-    "projects/Optimisation of Physical Health.md"
+    "2021-01-03.md",
+    "dailyNotes2021/2021-01-02.md",
+    "dailyNotes2021/2021-01-01.md",
+    "dailyNotes2021/Daily Notes.md",
+    "2021-01-02.md",
+    "freeFlow/Unit of Production.md",
+    "freeFlow/Free Flow.md",
+    "projects/Optimisation of my mental health.md"
   ]
 }
