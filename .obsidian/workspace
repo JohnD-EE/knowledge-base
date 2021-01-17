@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/freedom/Fredom Preface.md",
+            "file": "writing/freedom/Freedom Scratch.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/freedom/Fredom Preface.md",
+                "file": "writing/freedom/Freedom Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/freedom/Fredom Preface.md"
+                "file": "writing/freedom/Freedom Scratch.md"
               }
             }
           }
@@ -115,9 +115,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "writing/freedom/Freedom Scratch.md",
     "writing/freedom/Fredom Preface.md",
     "writing/freedom/Freedom.md",
-    "writing/freedom/Freedom Scratch.md",
     "2021-01-05.md",
     "dailyNotes2021/2021-01-04.md",
     "templates/Daily Notes.md",
