@@ -2,6 +2,10 @@
 
 What we call 'reality' is an illusion we that, to a large extent, we all happen to agree upon - an internal model of sensory inputs.
 
+Epistemic fracture.
+
+Strong opinions loosely held.
+
 Are we really free:
 The influence of our upbringing, our cultures, the need to 'fit in' over what we think, how we think (e.g. the influence of anxiety and rumination)
 

@@ -1,33 +1,30 @@
 {
   "main": {
-    "id": "57e44f67cb9ca10e",
+    "id": "255fb3a146aaec11",
     "type": "split",
     "children": [
       {
-        "id": "ba8ed7f711890bcf",
+        "id": "7be15f94d5b73a23",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "writing/freedom/Freedom Scratch.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "60e24724fcc27f1d",
+    "id": "1766f3af6aa36fca",
     "type": "split",
     "children": [
       {
-        "id": "0256d9c3ff653763",
+        "id": "318a6deff9f8feb0",
         "type": "tabs",
         "children": [
           {
-            "id": "8aefa1eacad1a93f",
+            "id": "c7f86d86dfed3de2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,13 +32,13 @@
             }
           },
           {
-            "id": "0c317b9a9c30a1d3",
+            "id": "0f18725596ec4fc2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -50,7 +47,7 @@
             }
           },
           {
-            "id": "c4aadcd5e89235e4",
+            "id": "6f15b01b4928ea0a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +61,19 @@
     "width": 300
   },
   "right": {
-    "id": "c2609cb01bedc536",
+    "id": "4f51ecc8c18c48ff",
     "type": "split",
     "children": [
       {
-        "id": "1d145b18d984fa10",
+        "id": "af9d1a38da67ab3b",
         "type": "tabs",
         "children": [
           {
-            "id": "249d784ae9f6c27c",
+            "id": "04bfede9d68c52cb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/freedom/Freedom Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,23 +83,22 @@
             }
           },
           {
-            "id": "cb73705529939888",
+            "id": "882b8dce8a6d3830",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "3597ce043abc854d",
+            "id": "bf2d7630ede58b77",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "writing/freedom/Freedom Scratch.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -113,16 +108,5 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": [
-    "writing/freedom/Freedom Scratch.md",
-    "writing/freedom/Fredom Preface.md",
-    "writing/freedom/Freedom.md",
-    "writing/freedom/Untitled.md",
-    "dailyNotes2021/2021-01-05.md",
-    "2021-01-05.md",
-    "dailyNotes2021/2021-01-04.md",
-    "templates/Daily Notes.md",
-    "2021-01-04.md",
-    "dailyNotes2021/2021-01-03.md"
-  ]
+  "lastOpenFiles": []
 }
