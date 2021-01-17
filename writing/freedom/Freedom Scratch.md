@@ -70,3 +70,12 @@ Oligarchs
 Corporate Power
 
 
+
+
+We don't seem to want to claim our true sovereignty, willing slaves...
+
+
+Straw-man - birth certificates etc.
+
+
+We have been sold the lie of freedom.
