@@ -92,7 +92,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -115,14 +116,14 @@
   },
   "lastOpenFiles": [
     "writing/freedom/Fredom Preface.md",
+    "writing/freedom/Freedom.md",
+    "writing/freedom/Freedom Scratch.md",
     "2021-01-05.md",
     "dailyNotes2021/2021-01-04.md",
     "templates/Daily Notes.md",
     "2021-01-04.md",
     "dailyNotes2021/2021-01-03.md",
     "dailyNotes2021/2021-01-02.md",
-    "knowledge/Quantum Physics/Weak Nuclear Force.md",
-    "meta/Meta.md",
-    "knowledge/Quantum Physics/Higgs Boson.md"
+    "knowledge/Quantum Physics/Weak Nuclear Force.md"
   ]
 }
