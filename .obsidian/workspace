@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sovereignty Over Consciousness.md",
+            "file": "knowledge/Systems Thinking/Systems Thinking.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sovereignty Over Consciousness.md",
+                "file": "knowledge/Systems Thinking/Systems Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sovereignty Over Consciousness.md"
+                "file": "knowledge/Systems Thinking/Systems Thinking.md"
               }
             }
           }
@@ -115,10 +115,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Sovereignty Over Consciousness.md",
+    "knowledge/Systems Thinking/Untitled.md",
+    "knowledge/Knowledge.md",
+    "Freedom From Centralised Authoritarian Control Freaks.md",
     "writing/freedom/Freedom.md",
+    "writing/freedom/Fredom Preface.md",
+    "Sovereignty Over Consciousness.md",
     "writing/freedom/Freedom Scratch.md",
-    "writing/freedom/Roosevelt Four Freedoms.md",
-    "writing/freedom/Fredom Preface.md"
+    "writing/freedom/Roosevelt Four Freedoms.md"
   ]
 }
