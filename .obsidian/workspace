@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/freedom/Freedom or Security.md",
+            "file": "writing/freedom/Freedom from Conventions.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/freedom/Freedom or Security.md",
+                "file": "writing/freedom/Freedom from Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/freedom/Freedom or Security.md"
+                "file": "writing/freedom/Freedom from Conventions.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "writing/freedom/Freedom or Security.md",
-    "Writing Principles.md",
+    "writing/freedom/Freedom from Conventions.md",
     "writing/freedom/Freedom.md",
-    "Sticking to the Man.md",
-    "Freedom from Conventions.md",
-    "knowledge/Ancient History/Untitled.md",
-    "Non-violence as the Noblest Ideal.md",
-    "Non=coercive Child Rearing.md",
-    "The State.md",
-    "Freedom to Choose your Morality.md"
+    "writing/freedom/Conflict.md",
+    "Money.md",
+    "Conflict.md",
+    "The Human Condition.md",
+    "writing/freedom/Escape from Freedom.md",
+    "writing/freedom/Freedom and Self-Responsibility.md",
+    "writing/freedom/The State.md",
+    "Writing Principles.md"
   ]
 }

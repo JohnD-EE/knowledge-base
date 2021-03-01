@@ -1,0 +1,2 @@
+# Money
+Ironically, the attempts of the existing world order to coerce and control people is driving people towards cryptocurrencies and decentralisation.  People are seeing the powerful tech companies deplatforming unwanted conversation moving them into the shadows.
