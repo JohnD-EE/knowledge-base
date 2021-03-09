@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/freedom/Freedom from Conventions.md",
+            "file": "knowledge/Crypto/Legacy Banking.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/freedom/Freedom from Conventions.md",
+                "file": "knowledge/Crypto/Legacy Banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/freedom/Freedom from Conventions.md"
+                "file": "knowledge/Crypto/Legacy Banking.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "knowledge/Crypto/Legacy Banking.md",
+    "knowledge/Crypto/Untitled.md",
+    "knowledge/Knowledge.md",
     "writing/freedom/Freedom from Conventions.md",
     "writing/freedom/Freedom.md",
     "writing/freedom/Conflict.md",
     "Money.md",
     "Conflict.md",
     "The Human Condition.md",
-    "writing/freedom/Escape from Freedom.md",
-    "writing/freedom/Freedom and Self-Responsibility.md",
-    "writing/freedom/The State.md",
-    "Writing Principles.md"
+    "writing/freedom/Escape from Freedom.md"
   ]
 }
