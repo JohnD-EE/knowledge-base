@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "knowledge/World Problems/List of World Problems.md",
+            "file": "knowledge/Crypto/Polkadot.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/World Problems/List of World Problems.md",
+                "file": "knowledge/Crypto/Polkadot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/World Problems/List of World Problems.md"
+                "file": "knowledge/Crypto/Polkadot.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "knowledge/World Problems/Untitled.md",
-    "knowledge/Crypto/Centralised Economies.md",
     "knowledge/Crypto/Untitled.md",
-    "dailyNotes2021/2021-01-05.md",
-    "dailyNotes2021/2021-01-02.md",
-    "dailyNotes2021/2021-01-04.md",
-    "dailyNotes2021/2021-01-03.md",
+    "knowledge/Crypto/Blockchiain.md",
     "knowledge/Crypto/Legacy Banking.md",
     "knowledge/Knowledge.md",
-    "writing/freedom/Freedom from Conventions.md"
+    "writing/freedom/Freedom from Conventions.md",
+    "writing/freedom/Freedom.md",
+    "writing/freedom/Conflict.md",
+    "Money.md",
+    "Conflict.md",
+    "The Human Condition.md"
   ]
 }
